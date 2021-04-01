@@ -1,0 +1,8 @@
+decl fun (a:String):String
+
+def abc (a:Int):Int{
+  if a == 1 {
+    a = 2 * 5;
+  }
+  return a;
+}

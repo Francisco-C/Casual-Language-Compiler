@@ -1,0 +1,13 @@
+def main ():Void{
+
+ a = 1.5;
+ b = .6;
+ c = fun(a, b);
+ return;
+}
+
+def fun (num1:Float, num2:Float):Float{
+
+ result = num1 + num2;
+ return result;
+}

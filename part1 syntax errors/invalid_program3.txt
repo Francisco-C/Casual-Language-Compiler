@@ -1,0 +1,8 @@
+def fun (string:String):Boolean #{
+
+ bool:Boolean = true;
+ if string != "verdade"{
+   bool = false;
+ }
+ return bool;
+}

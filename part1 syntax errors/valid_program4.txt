@@ -1,0 +1,12 @@
+def fun (bool1:Boolean, bool2:Boolean):String{
+ 
+ word:String = ""; 
+
+ if bool1 == true && bool2 == true{
+  word = "true";
+ }
+ else{
+  word = "false";
+ }
+ return word;
+}

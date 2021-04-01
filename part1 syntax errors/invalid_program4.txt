@@ -1,0 +1,13 @@
+def main():Void {
+ 
+ if {
+  a:Int = fun();    
+ }
+
+ return;
+}
+
+def fun():Int {
+
+ return 1 + 1;
+}

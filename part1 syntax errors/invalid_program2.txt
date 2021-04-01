@@ -1,0 +1,3 @@
+de max (a:Int, b:Int):Int
+
+decl min (c:Int, d:Int):Int

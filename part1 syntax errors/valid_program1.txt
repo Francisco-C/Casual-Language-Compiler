@@ -1,0 +1,8 @@
+#este program é válido
+
+def max (a:Int, b:Int):Int {
+  if a > b {
+    return a;
+  }
+  return b;
+}
