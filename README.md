@@ -37,4 +37,4 @@ CASUAL LANGUAGE DESCRIPTION
 ->String literals ("", "a", "aa", "qwertyuiop", "qwerty\tuiop")
 ->Variables, which start with a letter or understore and are followed by any number of letters, underscores or numbers.
 ->index access, (a[0] or get_array()[i+1])
-->function invocation (function(arg1, arg2)) where arguments can be expressions
+->function invocation (function(arg1, arg2)) where arguments can be expressions 
