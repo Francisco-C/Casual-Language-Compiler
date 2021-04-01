@@ -1,0 +1,6 @@
+You can run the python file directly on any windows with python and ply library installed.
+
+In a ubuntu-based linux system or in the GIT BASH terminal:
+
+-> run the setup.sh file (that automatically installs all dependencies) with the command 'bash setup.sh'
+-> run the run.sh file with the file that has the code to compile with the command  'bash run.sh "filename"'
