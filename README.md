@@ -33,7 +33,7 @@ CASUAL LANGUAGE DESCRIPTION
 
 -Expressions represent values. They can be:
 
-    ->Binary operators, with a C-like precedence and parenthesis to force other precedences: &&, ||, ==, !=, >=, >, <=, <, +, -, *, /, % em que a divisão tem sempre a semântica da     divisão decimal.
+    ->Binary operators, with a C-like precedence and parenthesis to force other precedences: &&, ||, ==, !=, >=, >, <=, <, +, -, *, /, % em que a divisão tem sempre a semântica da divisão decimal.
     ->The not unary operator (!true)
     ->Boolean literals (true, false)
     ->Integer literals (1, 01, 12312341341, 1_000_000) where underscores can be present in any position.
