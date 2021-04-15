@@ -1,0 +1,5 @@
+def main():Void{
+	
+	a = 1; # var not defined
+	return;
+}

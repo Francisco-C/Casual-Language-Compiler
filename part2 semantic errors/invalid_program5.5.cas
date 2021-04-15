@@ -1,0 +1,9 @@
+decl b(a:Int):Int
+
+def main():Void{
+	
+	a:Int = 1;
+	return;
+}
+
+decl b():Float # b is already declared

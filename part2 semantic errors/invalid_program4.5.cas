@@ -1,0 +1,6 @@
+def main():Void{
+	
+	a:[Int];
+	a[0] = true; # array has type int but got boolean
+	return;
+}

@@ -1,0 +1,8 @@
+decl f2(a:Boolean):Boolean
+
+def f():Void {
+  
+  f2(1); # <— 1:Int is not of type Bool. 
+  
+  return; 
+}

@@ -1,0 +1,10 @@
+decl fun(a:String, b:Int):String
+
+def fun(a:String, b:Int):String{
+	
+	a = "compiladores";
+    if b == 23{
+    	a = "semantica";
+    }
+    return a;
+}

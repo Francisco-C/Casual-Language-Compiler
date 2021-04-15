@@ -1,0 +1,6 @@
+def main():Void{
+	
+	a:[Int];
+	a[true] = 1; # array index must be integer
+	return;
+}

@@ -1,0 +1,11 @@
+decl fun():Int
+
+def fun2(a:Float, b:Float):Int{
+  c:Int = 1;
+  
+  if a > b{
+    c = fun();
+  }
+
+  return c;
+}
