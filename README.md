@@ -67,8 +67,13 @@ CASUAL LANGUAGE DESCRIPTION
     }
 
 -if and while conditions expect booleans.
+
 -Boolean operators expect booleans (&&, ||, !)
+
 -Comparison and arithmetic operators expect either Int or Float (+,-,*,/,<,>,<=,>=), as long as they are of the same type.
+
 -The % operator requires integers.
+
 -Equality operators (==, !=) support Bool, Int or Float, as long as they are of the same type.
+
 -Index operator (a[i]) requires a to be of type array (“[something]”), i to be of type Int and a[i] is of type something.
