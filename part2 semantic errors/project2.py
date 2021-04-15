@@ -20,14 +20,14 @@ t_RBRACE		= r'\}'
 t_LBRACKET		= r'\['
 t_RBRACKET		= r']'
 t_EQUALS  		= r'='
-t_NOT_EQUALS 	= r'!='
-t_EQUALS_EQUALS = r'=='
+t_NOT_EQUALS 		= r'!='
+t_EQUALS_EQUALS 	= r'=='
 t_AND			= r'&&'
 t_OR			= r'\|\|'
 t_GREATER 		= r'\>'
 t_LESS 			= r'\<'
-t_GREATER_EQUAL = r'\>='
-t_LESS_EQUAL	= r'\<='
+t_GREATER_EQUAL 	= r'\>='
+t_LESS_EQUAL		= r'\<='
 t_NOT_UNARY		= r'!'
 t_STRING		= r'"(([a-zA-Z]*)|[a-zA-Z]+([\\][a-zA-Z]+)+)"'
 t_VARIABLE 		= r'[a-zA-Z_][a-zA-Z0-9_]*'
@@ -122,7 +122,7 @@ import ply.lex as lex
 import sys
 from collections.abc import Iterable
 
-#sys.tracebacklimit = 0
+sys.tracebacklimit = 0
 
 lexer = lex.lex()
 
