@@ -1,4 +1,4 @@
-You can run the python file directly on any windows with python and ply library installed.
+You can run the python file directly on any OS with python and ply library installed, as well with llvm installed
 
 In a ubuntu-based linux system or in the GIT BASH terminal:
 
