@@ -1,0 +1,25 @@
+def fibonacci(N:Int):Void{
+
+    i:Int = 0; 
+    a:Int = 0;
+    b:Int = 1;
+    next:Int = 0;
+    
+    print("The first %d Fibonacci numbers are\n", N);
+    
+    i = 1;
+    while(i <= N){
+    	print("%d ", a);
+    	next = a + b;
+    	a = b;
+    	b = next;
+    	i = i + 1;
+    }
+    print("\n");
+    return;
+}
+
+def main():Int{
+	fibonacci(20);
+	return 0;
+}

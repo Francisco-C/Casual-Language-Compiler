@@ -1,0 +1,5 @@
+def main():Int{
+	
+	print("Hello World \n");
+	return 0;
+}
